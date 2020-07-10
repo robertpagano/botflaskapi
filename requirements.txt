@@ -8,7 +8,7 @@ chardet==3.0.4
 click==7.1.2
 clickclick==1.2.2
 colorama==0.4.3
-connexion==2020.0.dev1
+connexion
 cryptography==2.9.2
 decorator==4.4.2
 entrypoints==0.3
