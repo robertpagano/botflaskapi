@@ -35,7 +35,7 @@ pathlib2==2.3.5
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
 pycparser
-Pygments==2.6.1
+Pygments==2.7.4
 pylint
 pyOpenSSL==19.1.0
 pyrsistent==0.16.0
